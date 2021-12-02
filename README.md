@@ -10,3 +10,12 @@ a repo for my #TidyTuesday data visuals.
 
 ## Cricket 
 <img height='500' src='https://user-images.githubusercontent.com/55933131/144095997-f9f7c6d8-5e2d-4a0e-8739-56e58330a46f.png'>
+
+### Cricket Series
+<img height='500' src='https://user-images.githubusercontent.com/55933131/144333902-eb162aca-542f-461e-aa02-86d7cb148f1a.png'>
+
+### Cricket venues
+<img height='500' src='https://user-images.githubusercontent.com/55933131/144333993-35988562-05ab-41df-828b-a142bdb2140e.png'>
+
+
+
